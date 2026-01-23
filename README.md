@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Frontend dev 
 - 💞️ I’m looking to collaborate on ...special coding
-- 📫 How to reach me ...to be web development
+- 📫 How to reach me ...to be web developer
 
 
 <!---
