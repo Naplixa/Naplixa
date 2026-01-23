@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Naplixa
+- 👋 Hi, I’m @Naplixa (Heldana)
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...programming and highschool in grade 11
+- 🌱 I’m currently learning ...Frontend dev 
 - 💞️ I’m looking to collaborate on ...special coding
-- 📫 How to reach me ...to be programmer
+- 📫 How to reach me ...to be web development
 
 
 <!---
